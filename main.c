@@ -2,8 +2,8 @@
 #include "sum.h"
 
 int main() {
-    int a= 2;
-    int b= 7;
+    int a= 11;
+    int b= 12;
     int res = sum(a, b);
     printf("The result is %d .\n",res);
     return 0;
