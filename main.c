@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "sum.h"
 
-int main() {
+void main(void) {
     int a= 11;
     int b= 121;
     int res = sum(a, b);
